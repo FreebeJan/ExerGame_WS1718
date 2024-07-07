@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: 9c8d41fe3c329fe40b12ac6e37739801
+timeCreated: 1517248133
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Footsteps
+    100006: Bip001 Head
+    100008: Bip001 HeadNub
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Finger0
+    100016: Bip001 L Finger01
+    100018: Bip001 L Finger0Nub
+    100020: Bip001 L Finger1
+    100022: Bip001 L Finger11
+    100024: Bip001 L Finger1Nub
+    100026: Bip001 L Finger2
+    100028: Bip001 L Finger21
+    100030: Bip001 L Finger2Nub
+    100032: Bip001 L Finger3
+    100034: Bip001 L Finger31
+    100036: Bip001 L Finger3Nub
+    100038: Bip001 L Finger4
+    100040: Bip001 L Finger41
+    100042: Bip001 L Finger4Nub
+    100044: Bip001 L Foot
+    100046: Bip001 L Forearm
+    100048: Bip001 L Hand
+    100050: Bip001 L Thigh
+    100052: Bip001 L Toe0
+    100054: Bip001 L Toe01
+    100056: Bip001 L Toe02
+    100058: Bip001 L Toe0Nub
+    100060: Bip001 L UpperArm
+    100062: Bip001 Neck
+    100064: Bip001 Pelvis
+    100066: Bip001 R Calf
+    100068: Bip001 R Clavicle
+    100070: Bip001 R Finger0
+    100072: Bip001 R Finger01
+    100074: Bip001 R Finger0Nub
+    100076: Bip001 R Finger1
+    100078: Bip001 R Finger11
+    100080: Bip001 R Finger1Nub
+    100082: Bip001 R Finger2
+    100084: Bip001 R Finger21
+    100086: Bip001 R Finger2Nub
+    100088: Bip001 R Finger3
+    100090: Bip001 R Finger31
+    100092: Bip001 R Finger3Nub
+    100094: Bip001 R Finger4
+    100096: Bip001 R Finger41
+    100098: Bip001 R Finger4Nub
+    100100: Bip001 R Foot
+    100102: Bip001 R Forearm
+    100104: Bip001 R Hand
+    100106: Bip001 R Thigh
+    100108: Bip001 R Toe0
+    100110: Bip001 R Toe01
+    100112: Bip001 R Toe02
+    100114: Bip001 R Toe0Nub
+    100116: Bip001 R UpperArm
+    100118: Bip001 Spine
+    100120: Bip001 Spine1
+    100122: Bip001 Spine2
+    100124: Circle001
+    100126: Circle002
+    100128: Circle003
+    100130: Circle004
+    100132: Compon1008
+    100134: Compon1033
+    100136: Compon1058
+    100138: Compon1083
+    100140: Compon1108
+    100142: Compon1133
+    100144: Compon1134
+    100146: Compon1135
+    100148: Compon1136
+    100150: Compon1137
+    100152: Compon1138
+    100154: Compon1139
+    100156: Compon1140
+    100158: Compon1141
+    100160: Compon1143
+    100162: Compon1144
+    100164: Compon1146
+    100166: Compon1148
+    100168: Compon1438
+    100170: Compon1463
+    100172: Compon1488
+    100174: Compon1513
+    100176: Compon1538
+    100178: Compon1563
+    100180: Compon1588
+    100182: Compon1613
+    100184: Compon1638
+    100186: Compon1663
+    100188: Compon1688
+    100190: Compon1713
+    100192: Compon1738
+    100194: Compon1763
+    100196: Compon1788
+    100198: Compon1813
+    100200: Compon1838
+    100202: Compon1863
+    100204: Compon1888
+    100206: Compon1913
+    100208: Compon1938
+    100210: Compon1963
+    100212: Compon1988
+    100214: Compon2013
+    100216: Compon2038
+    100218: Compon2063
+    100220: Compon2088
+    100222: Compon2113
+    100224: Compon2138
+    100226: Compon2163
+    100228: Compon2188
+    100230: Compon2213
+    100232: Compon2238
+    100234: Compon2263
+    100236: Compon2288
+    100238: Compon2313
+    100240: Compon2314
+    100242: Compone105
+    100244: Compone215
+    100246: Compone217
+    100248: Compone219
+    100250: Compone221
+    100252: Compone222
+    100254: Compone223
+    100256: Compone224
+    100258: Compone226
+    100260: Compone228
+    100262: Compone230
+    100264: Compone232
+    100266: Compone233
+    100268: Compone258
+    100270: Compone283
+    100272: Compone308
+    100274: Compone333
+    100276: Compone358
+    100278: Compone383
+    100280: Compone408
+    100282: Compone433
+    100284: Compone458
+    100286: Compone483
+    100288: Compone508
+    100290: Compone533
+    100292: Compone558
+    100294: Compone583
+    100296: Compone608
+    100298: Compone633
+    100300: Compone658
+    100302: Compone683
+    100304: Compone708
+    100306: Compone733
+    100308: Compone758
+    100310: Compone783
+    100312: Compone808
+    100314: Compone833
+    100316: Compone858
+    100318: Compone883
+    100320: Compone908
+    100322: Compone933
+    100324: Compone958
+    100326: Compone983
+    100328: Compone984
+    100330: forks_001
+    100332: Group_001
+    100334: Group_002
+    100336: Group_003
+    100338: Group_004
+    100340: Group_005
+    100342: Group_006
+    100344: Group_3211
+    100346: Group_3213
+    100348: Group_3215
+    100350: Group_3217
+    100352: Group_3219
+    100354: Group_3221
+    100356: Group_3223
+    100358: Group_3225
+    100360: Group_3227
+    100362: Group_3229
+    100364: Group_3231
+    100366: Group_3233
+    100368: Group_3235
+    100370: Group_3237
+    100372: Group_3239
+    100374: Group_3241
+    100376: Group_3243
+    100378: Group_3245
+    100380: Group_3247
+    100382: Group_3249
+    100384: Group_3251
+    100386: Group_3253
+    100388: Group_3255
+    100390: Group_3257
+    100392: Group_3259
+    100394: Group_3261
+    100396: Group_3263
+    100398: Group_3265
+    100400: Group_3267
+    100402: Group_3269
+    100404: Group_3271
+    100406: Group_32_1
+    100408: Group_32_3
+    100410: Group_32_5
+    100412: Group_32_7
+    100414: Group_32_9
+    100416: Group_3_00
+    100418: Group_3_03
+    100420: Group_3_05
+    100422: Group_3_06
+    100424: Group_3_09
+    100426: Group_3_11
+    100428: Group_3_13
+    100430: Group_3_15
+    100432: Group_3_17
+    100434: Group_3_19
+    100436: Group_3_21
+    100438: Group_3_23
+    100440: Group_3_25
+    100442: Group_3_27
+    100444: Group_3_29
+    100446: Group_3_31
+    100448: Group_3_33
+    100450: Group_3_35
+    100452: Group_3_37
+    100454: Group_3_39
+    100456: Group_3_41
+    100458: Group_3_43
+    100460: Group_3_45
+    100462: Group_3_47
+    100464: Group_3_49
+    100466: Group_3_51
+    100468: Group_3_53
+    100470: Group_3_55
+    100472: Group_3_57
+    100474: Group_3_59
+    100476: Group_3_61
+    100478: Group_3_63
+    100480: Group_3_65
+    100482: Group_3_67
+    100484: Group_3_69
+    100486: Group_3_71
+    100488: Layer0_001
+    100490: Point001
+    100492: Point002
+    100494: Simple2019
+    100496: Simple2021
+    100498: SimpleDom0
+    100500: SimpleDom1
+    100502: SimpleDom2
+    100504: SimpleDome
+    100506: wetsuitMesh
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Footsteps
+    400006: Bip001 Head
+    400008: Bip001 HeadNub
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Finger0
+    400016: Bip001 L Finger01
+    400018: Bip001 L Finger0Nub
+    400020: Bip001 L Finger1
+    400022: Bip001 L Finger11
+    400024: Bip001 L Finger1Nub
+    400026: Bip001 L Finger2
+    400028: Bip001 L Finger21
+    400030: Bip001 L Finger2Nub
+    400032: Bip001 L Finger3
+    400034: Bip001 L Finger31
+    400036: Bip001 L Finger3Nub
+    400038: Bip001 L Finger4
+    400040: Bip001 L Finger41
+    400042: Bip001 L Finger4Nub
+    400044: Bip001 L Foot
+    400046: Bip001 L Forearm
+    400048: Bip001 L Hand
+    400050: Bip001 L Thigh
+    400052: Bip001 L Toe0
+    400054: Bip001 L Toe01
+    400056: Bip001 L Toe02
+    400058: Bip001 L Toe0Nub
+    400060: Bip001 L UpperArm
+    400062: Bip001 Neck
+    400064: Bip001 Pelvis
+    400066: Bip001 R Calf
+    400068: Bip001 R Clavicle
+    400070: Bip001 R Finger0
+    400072: Bip001 R Finger01
+    400074: Bip001 R Finger0Nub
+    400076: Bip001 R Finger1
+    400078: Bip001 R Finger11
+    400080: Bip001 R Finger1Nub
+    400082: Bip001 R Finger2
+    400084: Bip001 R Finger21
+    400086: Bip001 R Finger2Nub
+    400088: Bip001 R Finger3
+    400090: Bip001 R Finger31
+    400092: Bip001 R Finger3Nub
+    400094: Bip001 R Finger4
+    400096: Bip001 R Finger41
+    400098: Bip001 R Finger4Nub
+    400100: Bip001 R Foot
+    400102: Bip001 R Forearm
+    400104: Bip001 R Hand
+    400106: Bip001 R Thigh
+    400108: Bip001 R Toe0
+    400110: Bip001 R Toe01
+    400112: Bip001 R Toe02
+    400114: Bip001 R Toe0Nub
+    400116: Bip001 R UpperArm
+    400118: Bip001 Spine
+    400120: Bip001 Spine1
+    400122: Bip001 Spine2
+    400124: Circle001
+    400126: Circle002
+    400128: Circle003
+    400130: Circle004
+    400132: Compon1008
+    400134: Compon1033
+    400136: Compon1058
+    400138: Compon1083
+    400140: Compon1108
+    400142: Compon1133
+    400144: Compon1134
+    400146: Compon1135
+    400148: Compon1136
+    400150: Compon1137
+    400152: Compon1138
+    400154: Compon1139
+    400156: Compon1140
+    400158: Compon1141
+    400160: Compon1143
+    400162: Compon1144
+    400164: Compon1146
+    400166: Compon1148
+    400168: Compon1438
+    400170: Compon1463
+    400172: Compon1488
+    400174: Compon1513
+    400176: Compon1538
+    400178: Compon1563
+    400180: Compon1588
+    400182: Compon1613
+    400184: Compon1638
+    400186: Compon1663
+    400188: Compon1688
+    400190: Compon1713
+    400192: Compon1738
+    400194: Compon1763
+    400196: Compon1788
+    400198: Compon1813
+    400200: Compon1838
+    400202: Compon1863
+    400204: Compon1888
+    400206: Compon1913
+    400208: Compon1938
+    400210: Compon1963
+    400212: Compon1988
+    400214: Compon2013
+    400216: Compon2038
+    400218: Compon2063
+    400220: Compon2088
+    400222: Compon2113
+    400224: Compon2138
+    400226: Compon2163
+    400228: Compon2188
+    400230: Compon2213
+    400232: Compon2238
+    400234: Compon2263
+    400236: Compon2288
+    400238: Compon2313
+    400240: Compon2314
+    400242: Compone105
+    400244: Compone215
+    400246: Compone217
+    400248: Compone219
+    400250: Compone221
+    400252: Compone222
+    400254: Compone223
+    400256: Compone224
+    400258: Compone226
+    400260: Compone228
+    400262: Compone230
+    400264: Compone232
+    400266: Compone233
+    400268: Compone258
+    400270: Compone283
+    400272: Compone308
+    400274: Compone333
+    400276: Compone358
+    400278: Compone383
+    400280: Compone408
+    400282: Compone433
+    400284: Compone458
+    400286: Compone483
+    400288: Compone508
+    400290: Compone533
+    400292: Compone558
+    400294: Compone583
+    400296: Compone608
+    400298: Compone633
+    400300: Compone658
+    400302: Compone683
+    400304: Compone708
+    400306: Compone733
+    400308: Compone758
+    400310: Compone783
+    400312: Compone808
+    400314: Compone833
+    400316: Compone858
+    400318: Compone883
+    400320: Compone908
+    400322: Compone933
+    400324: Compone958
+    400326: Compone983
+    400328: Compone984
+    400330: forks_001
+    400332: Group_001
+    400334: Group_002
+    400336: Group_003
+    400338: Group_004
+    400340: Group_005
+    400342: Group_006
+    400344: Group_3211
+    400346: Group_3213
+    400348: Group_3215
+    400350: Group_3217
+    400352: Group_3219
+    400354: Group_3221
+    400356: Group_3223
+    400358: Group_3225
+    400360: Group_3227
+    400362: Group_3229
+    400364: Group_3231
+    400366: Group_3233
+    400368: Group_3235
+    400370: Group_3237
+    400372: Group_3239
+    400374: Group_3241
+    400376: Group_3243
+    400378: Group_3245
+    400380: Group_3247
+    400382: Group_3249
+    400384: Group_3251
+    400386: Group_3253
+    400388: Group_3255
+    400390: Group_3257
+    400392: Group_3259
+    400394: Group_3261
+    400396: Group_3263
+    400398: Group_3265
+    400400: Group_3267
+    400402: Group_3269
+    400404: Group_3271
+    400406: Group_32_1
+    400408: Group_32_3
+    400410: Group_32_5
+    400412: Group_32_7
+    400414: Group_32_9
+    400416: Group_3_00
+    400418: Group_3_03
+    400420: Group_3_05
+    400422: Group_3_06
+    400424: Group_3_09
+    400426: Group_3_11
+    400428: Group_3_13
+    400430: Group_3_15
+    400432: Group_3_17
+    400434: Group_3_19
+    400436: Group_3_21
+    400438: Group_3_23
+    400440: Group_3_25
+    400442: Group_3_27
+    400444: Group_3_29
+    400446: Group_3_31
+    400448: Group_3_33
+    400450: Group_3_35
+    400452: Group_3_37
+    400454: Group_3_39
+    400456: Group_3_41
+    400458: Group_3_43
+    400460: Group_3_45
+    400462: Group_3_47
+    400464: Group_3_49
+    400466: Group_3_51
+    400468: Group_3_53
+    400470: Group_3_55
+    400472: Group_3_57
+    400474: Group_3_59
+    400476: Group_3_61
+    400478: Group_3_63
+    400480: Group_3_65
+    400482: Group_3_67
+    400484: Group_3_69
+    400486: Group_3_71
+    400488: Layer0_001
+    400490: Point001
+    400492: Point002
+    400494: Simple2019
+    400496: Simple2021
+    400498: SimpleDom0
+    400500: SimpleDom1
+    400502: SimpleDom2
+    400504: SimpleDome
+    400506: wetsuitMesh
+    2300000: Compon1008
+    2300002: Compon1033
+    2300004: Compon1058
+    2300006: Compon1083
+    2300008: Compon1108
+    2300010: Compon1133
+    2300012: Compon1134
+    2300014: Compon1135
+    2300016: Compon1136
+    2300018: Compon1137
+    2300020: Compon1138
+    2300022: Compon1139
+    2300024: Compon1140
+    2300026: Compon1141
+    2300028: Compon1143
+    2300030: Compon1144
+    2300032: Compon1146
+    2300034: Compon1148
+    2300036: Compon1438
+    2300038: Compon1463
+    2300040: Compon1488
+    2300042: Compon1513
+    2300044: Compon1538
+    2300046: Compon1563
+    2300048: Compon1588
+    2300050: Compon1613
+    2300052: Compon1638
+    2300054: Compon1663
+    2300056: Compon1688
+    2300058: Compon1713
+    2300060: Compon1738
+    2300062: Compon1763
+    2300064: Compon1788
+    2300066: Compon1813
+    2300068: Compon1838
+    2300070: Compon1863
+    2300072: Compon1888
+    2300074: Compon1913
+    2300076: Compon1938
+    2300078: Compon1963
+    2300080: Compon1988
+    2300082: Compon2013
+    2300084: Compon2038
+    2300086: Compon2063
+    2300088: Compon2088
+    2300090: Compon2113
+    2300092: Compon2138
+    2300094: Compon2163
+    2300096: Compon2188
+    2300098: Compon2213
+    2300100: Compon2238
+    2300102: Compon2263
+    2300104: Compon2288
+    2300106: Compon2313
+    2300108: Compon2314
+    2300110: Compone105
+    2300112: Compone215
+    2300114: Compone217
+    2300116: Compone219
+    2300118: Compone221
+    2300120: Compone222
+    2300122: Compone223
+    2300124: Compone224
+    2300126: Compone226
+    2300128: Compone228
+    2300130: Compone230
+    2300132: Compone232
+    2300134: Compone233
+    2300136: Compone258
+    2300138: Compone283
+    2300140: Compone308
+    2300142: Compone333
+    2300144: Compone358
+    2300146: Compone383
+    2300148: Compone408
+    2300150: Compone433
+    2300152: Compone458
+    2300154: Compone483
+    2300156: Compone508
+    2300158: Compone533
+    2300160: Compone558
+    2300162: Compone583
+    2300164: Compone608
+    2300166: Compone633
+    2300168: Compone658
+    2300170: Compone683
+    2300172: Compone708
+    2300174: Compone733
+    2300176: Compone758
+    2300178: Compone783
+    2300180: Compone808
+    2300182: Compone833
+    2300184: Compone858
+    2300186: Compone883
+    2300188: Compone908
+    2300190: Compone933
+    2300192: Compone958
+    2300194: Compone983
+    2300196: Compone984
+    2300198: forks_001
+    2300200: Group_001
+    2300202: Group_002
+    2300204: Group_003
+    2300206: Group_004
+    2300208: Group_005
+    2300210: Group_006
+    2300212: Group_3211
+    2300214: Group_3213
+    2300216: Group_3215
+    2300218: Group_3217
+    2300220: Group_3219
+    2300222: Group_3221
+    2300224: Group_3223
+    2300226: Group_3225
+    2300228: Group_3227
+    2300230: Group_3229
+    2300232: Group_3231
+    2300234: Group_3233
+    2300236: Group_3235
+    2300238: Group_3237
+    2300240: Group_3239
+    2300242: Group_3241
+    2300244: Group_3243
+    2300246: Group_3245
+    2300248: Group_3247
+    2300250: Group_3249
+    2300252: Group_3251
+    2300254: Group_3253
+    2300256: Group_3255
+    2300258: Group_3257
+    2300260: Group_3259
+    2300262: Group_3261
+    2300264: Group_3263
+    2300266: Group_3265
+    2300268: Group_3267
+    2300270: Group_3269
+    2300272: Group_3271
+    2300274: Group_32_1
+    2300276: Group_32_3
+    2300278: Group_32_5
+    2300280: Group_32_7
+    2300282: Group_32_9
+    2300284: Group_3_00
+    2300286: Group_3_03
+    2300288: Group_3_05
+    2300290: Group_3_06
+    2300292: Group_3_09
+    2300294: Group_3_11
+    2300296: Group_3_13
+    2300298: Group_3_15
+    2300300: Group_3_17
+    2300302: Group_3_19
+    2300304: Group_3_21
+    2300306: Group_3_23
+    2300308: Group_3_25
+    2300310: Group_3_27
+    2300312: Group_3_29
+    2300314: Group_3_31
+    2300316: Group_3_33
+    2300318: Group_3_35
+    2300320: Group_3_37
+    2300322: Group_3_39
+    2300324: Group_3_41
+    2300326: Group_3_43
+    2300328: Group_3_45
+    2300330: Group_3_47
+    2300332: Group_3_49
+    2300334: Group_3_51
+    2300336: Group_3_53
+    2300338: Group_3_55
+    2300340: Group_3_57
+    2300342: Group_3_59
+    2300344: Group_3_61
+    2300346: Group_3_63
+    2300348: Group_3_65
+    2300350: Group_3_67
+    2300352: Group_3_69
+    2300354: Group_3_71
+    2300356: Layer0_001
+    2300358: Simple2019
+    2300360: Simple2021
+    2300362: SimpleDom0
+    2300364: SimpleDom1
+    2300366: SimpleDom2
+    2300368: SimpleDome
+    3300000: Compon1008
+    3300002: Compon1033
+    3300004: Compon1058
+    3300006: Compon1083
+    3300008: Compon1108
+    3300010: Compon1133
+    3300012: Compon1134
+    3300014: Compon1135
+    3300016: Compon1136
+    3300018: Compon1137
+    3300020: Compon1138
+    3300022: Compon1139
+    3300024: Compon1140
+    3300026: Compon1141
+    3300028: Compon1143
+    3300030: Compon1144
+    3300032: Compon1146
+    3300034: Compon1148
+    3300036: Compon1438
+    3300038: Compon1463
+    3300040: Compon1488
+    3300042: Compon1513
+    3300044: Compon1538
+    3300046: Compon1563
+    3300048: Compon1588
+    3300050: Compon1613
+    3300052: Compon1638
+    3300054: Compon1663
+    3300056: Compon1688
+    3300058: Compon1713
+    3300060: Compon1738
+    3300062: Compon1763
+    3300064: Compon1788
+    3300066: Compon1813
+    3300068: Compon1838
+    3300070: Compon1863
+    3300072: Compon1888
+    3300074: Compon1913
+    3300076: Compon1938
+    3300078: Compon1963
+    3300080: Compon1988
+    3300082: Compon2013
+    3300084: Compon2038
+    3300086: Compon2063
+    3300088: Compon2088
+    3300090: Compon2113
+    3300092: Compon2138
+    3300094: Compon2163
+    3300096: Compon2188
+    3300098: Compon2213
+    3300100: Compon2238
+    3300102: Compon2263
+    3300104: Compon2288
+    3300106: Compon2313
+    3300108: Compon2314
+    3300110: Compone105
+    3300112: Compone215
+    3300114: Compone217
+    3300116: Compone219
+    3300118: Compone221
+    3300120: Compone222
+    3300122: Compone223
+    3300124: Compone224
+    3300126: Compone226
+    3300128: Compone228
+    3300130: Compone230
+    3300132: Compone232
+    3300134: Compone233
+    3300136: Compone258
+    3300138: Compone283
+    3300140: Compone308
+    3300142: Compone333
+    3300144: Compone358
+    3300146: Compone383
+    3300148: Compone408
+    3300150: Compone433
+    3300152: Compone458
+    3300154: Compone483
+    3300156: Compone508
+    3300158: Compone533
+    3300160: Compone558
+    3300162: Compone583
+    3300164: Compone608
+    3300166: Compone633
+    3300168: Compone658
+    3300170: Compone683
+    3300172: Compone708
+    3300174: Compone733
+    3300176: Compone758
+    3300178: Compone783
+    3300180: Compone808
+    3300182: Compone833
+    3300184: Compone858
+    3300186: Compone883
+    3300188: Compone908
+    3300190: Compone933
+    3300192: Compone958
+    3300194: Compone983
+    3300196: Compone984
+    3300198: forks_001
+    3300200: Group_001
+    3300202: Group_002
+    3300204: Group_003
+    3300206: Group_004
+    3300208: Group_005
+    3300210: Group_006
+    3300212: Group_3211
+    3300214: Group_3213
+    3300216: Group_3215
+    3300218: Group_3217
+    3300220: Group_3219
+    3300222: Group_3221
+    3300224: Group_3223
+    3300226: Group_3225
+    3300228: Group_3227
+    3300230: Group_3229
+    3300232: Group_3231
+    3300234: Group_3233
+    3300236: Group_3235
+    3300238: Group_3237
+    3300240: Group_3239
+    3300242: Group_3241
+    3300244: Group_3243
+    3300246: Group_3245
+    3300248: Group_3247
+    3300250: Group_3249
+    3300252: Group_3251
+    3300254: Group_3253
+    3300256: Group_3255
+    3300258: Group_3257
+    3300260: Group_3259
+    3300262: Group_3261
+    3300264: Group_3263
+    3300266: Group_3265
+    3300268: Group_3267
+    3300270: Group_3269
+    3300272: Group_3271
+    3300274: Group_32_1
+    3300276: Group_32_3
+    3300278: Group_32_5
+    3300280: Group_32_7
+    3300282: Group_32_9
+    3300284: Group_3_00
+    3300286: Group_3_03
+    3300288: Group_3_05
+    3300290: Group_3_06
+    3300292: Group_3_09
+    3300294: Group_3_11
+    3300296: Group_3_13
+    3300298: Group_3_15
+    3300300: Group_3_17
+    3300302: Group_3_19
+    3300304: Group_3_21
+    3300306: Group_3_23
+    3300308: Group_3_25
+    3300310: Group_3_27
+    3300312: Group_3_29
+    3300314: Group_3_31
+    3300316: Group_3_33
+    3300318: Group_3_35
+    3300320: Group_3_37
+    3300322: Group_3_39
+    3300324: Group_3_41
+    3300326: Group_3_43
+    3300328: Group_3_45
+    3300330: Group_3_47
+    3300332: Group_3_49
+    3300334: Group_3_51
+    3300336: Group_3_53
+    3300338: Group_3_55
+    3300340: Group_3_57
+    3300342: Group_3_59
+    3300344: Group_3_61
+    3300346: Group_3_63
+    3300348: Group_3_65
+    3300350: Group_3_67
+    3300352: Group_3_69
+    3300354: Group_3_71
+    3300356: Layer0_001
+    3300358: Simple2019
+    3300360: Simple2021
+    3300362: SimpleDom0
+    3300364: SimpleDom1
+    3300366: SimpleDom2
+    3300368: SimpleDome
+    4300000: wetsuitMesh
+    4300002: Compon1143
+    4300004: Compon1146
+    4300006: Simple2019
+    4300008: Compon1148
+    4300010: Group_3271
+    4300012: Group_3253
+    4300014: Group_3_63
+    4300016: Group_3_51
+    4300018: Group_3269
+    4300020: Group_3267
+    4300022: Group_3251
+    4300024: Group_3249
+    4300026: Group_3_71
+    4300028: Group_3_69
+    4300030: Group_3_45
+    4300032: Group_3239
+    4300034: Group_3_55
+    4300036: Group_3259
+    4300038: Group_3_37
+    4300040: Group_3_47
+    4300042: Group_3_65
+    4300044: Group_3241
+    4300046: Group_3247
+    4300048: Group_3_59
+    4300050: Group_3265
+    4300052: Group_3255
+    4300054: Group_3_39
+    4300056: Group_3237
+    4300058: Group_3_67
+    4300060: Group_3_49
+    4300062: Group_3263
+    4300064: Group_3_53
+    4300066: Group_3_43
+    4300068: Group_3257
+    4300070: Group_3261
+    4300072: Group_3243
+    4300074: Group_3_61
+    4300076: Group_3_41
+    4300078: Compon1513
+    4300080: Compon2238
+    4300082: Compon2088
+    4300084: Compon1763
+    4300086: Compon1638
+    4300088: Compon1738
+    4300090: Compon1463
+    4300092: Compon2163
+    4300094: Compon2313
+    4300096: Compon1563
+    4300098: Compon2138
+    4300100: Compon1663
+    4300102: Compon1788
+    4300104: Group_001
+    4300106: Compon1863
+    4300108: Compon2038
+    4300110: Compon2063
+    4300112: Compon1838
+    4300114: Compon2113
+    4300116: Compon1988
+    4300118: Compon1588
+    4300120: Compon2288
+    4300122: Compon1888
+    4300124: Compon2213
+    4300126: Compon1938
+    4300128: Compon1713
+    4300130: Compon1613
+    4300132: Compon1538
+    4300134: Compon2188
+    4300136: Compon1963
+    4300138: Compon2013
+    4300140: Compon1913
+    4300142: Compon1813
+    4300144: Compon1688
+    4300146: Compon1488
+    4300148: Compon1438
+    4300150: Compon2263
+    4300152: SimpleDom1
+    4300154: SimpleDom2
+    4300156: Compone333
+    4300158: Compon1033
+    4300160: Compone383
+    4300162: Compone433
+    4300164: Compone483
+    4300166: Compone533
+    4300168: Compon1144
+    4300170: Group_3235
+    4300172: Group_3233
+    4300174: Group_3231
+    4300176: Group_3229
+    4300178: Group_3227
+    4300180: Group_3225
+    4300182: Group_3223
+    4300184: Group_3221
+    4300186: Group_3219
+    4300188: Group_3217
+    4300190: Group_3215
+    4300192: Group_3213
+    4300194: Group_3211
+    4300196: Group_32_9
+    4300198: Group_32_7
+    4300200: Group_32_5
+    4300202: Group_32_3
+    4300204: Group_32_1
+    4300206: Group_006
+    4300208: Group_005
+    4300210: Group_004
+    4300212: Group_3_35
+    4300214: Group_3_33
+    4300216: Group_3_31
+    4300218: Group_3_29
+    4300220: Group_3_27
+    4300222: Group_3_25
+    4300224: Group_3_23
+    4300226: Group_3_21
+    4300228: Group_3_19
+    4300230: Group_3_17
+    4300232: Group_3_15
+    4300234: Group_3_13
+    4300236: Group_3_11
+    4300238: Group_3_09
+    4300240: Group_3_06
+    4300242: Group_3_05
+    4300244: Group_3_03
+    4300246: Group_3_00
+    4300248: Compone608
+    4300250: Compone983
+    4300252: Compone958
+    4300254: Compone708
+    4300256: Compone908
+    4300258: Compone733
+    4300260: Compone758
+    4300262: Compone833
+    4300264: Compone808
+    4300266: Compone783
+    4300268: Compone858
+    4300270: Compone883
+    4300272: Compone933
+    4300274: Compone683
+    4300276: Compone658
+    4300278: Compone633
+    4300280: Compone583
+    4300282: Compone558
+    4300284: Compon1133
+    4300286: Compone508
+    4300288: Compon1108
+    4300290: Compone458
+    4300292: Compon1083
+    4300294: Compone408
+    4300296: Compon1058
+    4300298: Compone358
+    4300300: Compon1008
+    4300302: Compone308
+    4300304: Compone283
+    4300306: Compone258
+    4300308: Simple2021
+    4300310: Compon1141
+    4300312: Compon1140
+    4300314: Compon1139
+    4300316: Compon1138
+    4300318: Compon1137
+    4300320: Compon1136
+    4300322: Compon1135
+    4300324: Compon1134
+    4300326: SimpleDom0
+    4300328: SimpleDome
+    4300330: Compone230
+    4300332: Layer0_001
+    4300334: Group_3245
+    4300336: Group_3_57
+    4300338: Group_003
+    4300340: Group_002
+    4300342: forks_001
+    4300344: Compone984
+    4300346: Compone233
+    4300348: Compone232
+    4300350: Compone224
+    4300352: Compone223
+    4300354: Compone222
+    4300356: Compone217
+    4300358: Compone215
+    4300360: Compone105
+    4300362: Compon2314
+    4300364: Compone221
+    4300366: Compone219
+    4300368: Compone226
+    4300370: Compone228
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: wetsuitMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_003
+    second: {fileID: 2100000, guid: e0feec6ac3b3344529c3d70bfda07a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_009
+    second: {fileID: 2100000, guid: 4a4e2f3d8c12c4bdba98a447df163e45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B03
+    second: {fileID: 2100000, guid: 913105d9741334773a367122b47cf68b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_D09
+    second: {fileID: 2100000, guid: 212437c50d93747269d3e9bb630a52dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_D23
+    second: {fileID: 2100000, guid: 352e371b0b8ba4761ac0fd2b95eab63b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_G21
+    second: {fileID: 2100000, guid: daa885cd9f90f473d806870d2dbdad21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_H10
+    second: {fileID: 2100000, guid: 7489d587c81e8428ca044713d47818f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2100000, guid: bfa37da208ca84e97920769772492e68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: 04e1f8c773b0f4b4b95f068904bf8c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6___Default
+    second: {fileID: 2100000, guid: 6685b10e357a34651bfce5703b804ab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black_
+    second: {fileID: 2100000, guid: b095d877aa4bd2d4d83dbaa9dbcc1817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: 93bf210d6d4844ad387f1803065a7c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Silver_
+    second: {fileID: 2100000, guid: f13335f7e5adc480b85c15ddc6eb3c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bike_whole
+    second: {fileID: 2100000, guid: f95c379436dfd464eab379f65dd8cb38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bikehelmet
+    second: {fileID: 2100000, guid: 9535b3965a4018a469509991ec94aad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character
+    second: {fileID: 2100000, guid: 013e5b260d4c4d84a9934bfa0324df49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cyclingshoes
+    second: {fileID: 2100000, guid: bd4a31b4844a3754f8ff718eb2644e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glossy_green
+    second: {fileID: 2100000, guid: 042c98530f78d4a21bdad39c1ccb8a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guma
+    second: {fileID: 2100000, guid: 19ec5d43400ed4ea3b5a8c09eefbeb2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly
+    second: {fileID: 2100000, guid: 4e0adf75526ea7f43a2909773ce76503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: istniska_prujina
+    second: {fileID: 2100000, guid: 141ff5634147044e38717b43f524adb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: opakovka_prujina
+    second: {fileID: 2100000, guid: 05fa866a833764641a6927b53ca531b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skp_front_defaul
+    second: {fileID: 2100000, guid: df10382ea3cf7425dbb4ed63ea818b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_whiter
+    second: {fileID: 2100000, guid: 0818cd37369774631a7cdeec0e897d90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tyre_1
+    second: {fileID: 2100000, guid: 0526f7ea54a30a94b836752bc1514c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tyre_2
+    second: {fileID: 2100000, guid: d870ba044081f994f98be90ba5ba1a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vip_meta_4
+    second: {fileID: 2100000, guid: 87e92e86be8424271aa0924042ab6908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wetsuit
+    second: {fileID: 2100000, guid: 4238bfd93b177924ea0cfb62ea960993, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
